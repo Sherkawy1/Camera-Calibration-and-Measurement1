@@ -85,6 +85,11 @@ python object\_measurement.py
 ```
 
 
+## 🎬 Project Demo
+
+You can watch the full demonstration video on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7497591567449317376/).
+
+
 
 \## Author
 
